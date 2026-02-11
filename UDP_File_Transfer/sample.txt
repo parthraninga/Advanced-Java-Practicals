@@ -1,0 +1,19 @@
+Hello! This is a sample text file for UDP file transfer.
+
+UDP (User Datagram Protocol) is different from TCP:
+- It's connectionless (no handshake needed)
+- It's faster but less reliable
+- Data is sent in small packets called datagrams
+- Perfect for applications where speed matters more than perfect delivery
+
+This file will be broken into small 1KB packets and sent to the server.
+Each packet travels independently through the network.
+
+Let's test the file transfer!
+Line 1: Java UDP Programming
+Line 2: DatagramSocket and DatagramPacket
+Line 3: Simple and efficient
+Line 4: Great for real-time applications
+Line 5: Network programming is fun! 🚀
+
+End of sample file.
